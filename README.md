@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/crazyboi_14dz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboi_14dz" height="30" width="40" /></a>
+<a href="https://twitter.com/14dzCrazyboi?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyboi_14dz" height="30" width="40" /></a>
 <a href="https://instagram.com/crazyboi_14dz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazyboi_14dz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxquAQfK_6sjd1ID0rvM3Fg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crazyboi_14dz" height="30" width="40" /></a>
 <a href="https://discord.gg/S24Xe9jx7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S24Xe9jx7g" height="30" width="40" /></a>
