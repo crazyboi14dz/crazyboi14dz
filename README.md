@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm crazyboi</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **C and C++.**
+- 🌱 I’m currently learning.
 
-- 🤝 I’m looking for help with **C problem solving.**
+- 🤝 I’m looking for team up and work together for freelancing in **Full Stack Development**.
 
 - 💬 Ask me about **Programming or Tech stuffs.**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://abhisheks008.github.io/CV/assets/images/skills/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"></a> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html5/" target="_blank" rel="noreferrer"></a><img src="https://joshua-d-miller.com/assets/img/CSS.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css3/" target="_blank" rel="noreferrer"></a><img src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" alt="bootstrap5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noreferrer"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +18,3 @@
 <a href="https://www.youtube.com/channel/UCxquAQfK_6sjd1ID0rvM3Fg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crazyboi_14dz" height="30" width="40" /></a>
 <a href="https://discord.gg/S24Xe9jx7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S24Xe9jx7g" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://abhisheks008.github.io/CV/assets/images/skills/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"></a> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"></a><img src="https://joshua-d-miller.com/assets/img/CSS.png" alt="css" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"></a></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazyboi14dz&show_icons=true&locale=en" alt="crazyboi14dz" /></p>
