@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm crazyboi</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=CC0EFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+crazyboi...;Nice+to+Meet+You...;A+Passionate+Programmer+from+India" alt="Typing SVG" height="60%" width="70%"/></a>
+</h1>
 
 - 🌱 I’m currently learning.
 
