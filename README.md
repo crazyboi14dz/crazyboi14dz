@@ -1,6 +1,8 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=CC0EFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+crazyboi...;Nice+to+Meet+You...;A+Passionate+Programmer+from+India" alt="Typing SVG" height="60%" width="70%"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=F7F7F7&background=CC0EFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+crazyboi...;Nice+to+Meet+You...;A+Passionate+Programmer+from+India" alt="Typing SVG" height="60%" width="70%"/></a>
 </h1>
+
+<img src="https://thumbs.gfycat.com/DependableVigilantHypsilophodon-max-1mb.gif" width="900" height="500"></img></p>
 
 - 🌱 I’m currently learning.
 
