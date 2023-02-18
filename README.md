@@ -1,15 +1,8 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=F7F7F7&background=CC0EFF00&width=435&lines=Hey+%F0%9F%91%8B%2C+Myself+crazyboi...;Nice+to+Meet+You...;A+Passionate+Programmer+from+India" alt="Typing SVG" height="60%" width="70%"/></a>
-</h1>
-
-<img src="https://thumbs.gfycat.com/DependableVigilantHypsilophodon-max-1mb.gif" width="900" height="500"></img></p>
-
-- 🌱 I’m currently learning.
-
-- 🤝 I’m looking for team up and work together for freelancing in **Full Stack Development**.
-
-- 💬 Ask me about **Programming or Tech stuffs.**
-
+<div style="width: 100%;">
+  <a href="https://github.com/crazyboi14dz/crazyboi14dz/blame/main/namaskar.svg">
+    <img src="namaskar.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 ## 🕵 Version Control System:
 <p><a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="50" height="40"/></a>
